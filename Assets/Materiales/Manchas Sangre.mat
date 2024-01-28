@@ -347,7 +347,7 @@ Material:
     - _UVDetailsMappingMask: {r: 1, g: 0, b: 0, a: 0}
     - _UVMappingMask: {r: 1, g: 0, b: 0, a: 0}
     - _UVMappingMaskEmissive: {r: 1, g: 0, b: 0, a: 0}
-    - _Velocidad_Sangre: {r: 0, g: 7.51, b: 0, a: 0}
+    - _Velocidad_Sangre: {r: 0, g: 0, b: 0, a: 0}
   m_BuildTextureStacks: []
 --- !u!114 &6243543759630411265
 MonoBehaviour:
