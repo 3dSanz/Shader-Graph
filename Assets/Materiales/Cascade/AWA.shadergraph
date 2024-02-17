@@ -1001,8 +1001,8 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": 2923.0,
-            "y": -259.0,
+            "x": 2827.0,
+            "y": -268.0,
             "width": 144.0,
             "height": 34.00001525878906
         }
@@ -2924,10 +2924,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": 3129.999755859375,
-            "y": -617.0,
+            "x": 2987.0,
+            "y": -625.0,
             "width": 206.0,
-            "height": 130.99996948242188
+            "height": 131.0
         }
     },
     "m_Slots": [
@@ -3617,10 +3617,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": 2558.0,
-            "y": -50.999996185302737,
-            "width": 117.999755859375,
-            "height": 94.00000762939453
+            "x": 2521.0,
+            "y": -171.0,
+            "width": 208.0,
+            "height": 278.0
         }
     },
     "m_Slots": [
@@ -3630,7 +3630,7 @@
     ],
     "synonyms": [],
     "m_Precision": 0,
-    "m_PreviewExpanded": false,
+    "m_PreviewExpanded": true,
     "m_DismissedVersion": 0,
     "m_PreviewMode": 2,
     "m_CustomColors": {
@@ -3650,10 +3650,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": 3376.999755859375,
-            "y": -499.9999694824219,
+            "x": 3356.0,
+            "y": -502.0,
             "width": 208.0,
-            "height": 301.99993896484377
+            "height": 302.0
         }
     },
     "m_Slots": [
@@ -4560,10 +4560,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": 3119.7529296875,
-            "y": -258.2469482421875,
+            "x": 3090.0,
+            "y": -272.0,
             "width": 208.0,
-            "height": 302.0
+            "height": 301.9999694824219
         }
     },
     "m_Slots": [
