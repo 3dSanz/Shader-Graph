@@ -157,7 +157,7 @@ Material:
     - _Alpha_level: 1.46
     - _Alpha_power: 10
     - _Anisotropy: 0
-    - _BlendMode: 0
+    - _BlendMode: 4
     - _BumpScale: 1
     - _CoatMask: 0
     - _ConservativeDepthOffsetEnable: 0
